@@ -1,6 +1,6 @@
 ﻿namespace listvieww
 {
-    partial class Form1
+    partial class Form1//test
     {
         /// <summary>
         /// Required designer variable.
